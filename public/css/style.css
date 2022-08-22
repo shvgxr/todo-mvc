@@ -1,0 +1,15 @@
+h1{
+    color: red;
+}
+.completed{
+    text-decoration: line-through;
+    color: gray;
+}
+.del{
+    background-color: red;
+    color:white
+}
+.edit{
+    background-color: blue;
+    color:white
+}
